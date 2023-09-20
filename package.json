@@ -1,0 +1,16 @@
+{
+  "name": "tekpro",
+  "version": "0.0.10",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fr": "pnpm -filter react-frontend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+ 
+  "dependencies": {
+    "react-router-dom": "^6.16.0"
+  }
+}
